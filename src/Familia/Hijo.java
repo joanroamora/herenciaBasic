@@ -6,6 +6,7 @@ public class Hijo extends Padre {
 	
 	public void Whotalks() {
 		super.WhoTalks();
+		super.Again();
 	}
 
 }

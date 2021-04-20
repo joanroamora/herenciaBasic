@@ -21,5 +21,10 @@ public class Padre {
 		System.out.println("El color de los ojos es " + ojos);
 		System.out.println("El tamaño de los dientes es " + dientes);
 		System.out.println("El color del cabello es " + cabello);
-	} 
+	}
+	
+	public void Again()
+	{
+		System.out.println("El padre habla de nuevo");
+	}
 }
